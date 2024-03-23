@@ -8,18 +8,17 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
-  ['393518398856', 'nobody|'],
-  ['393755775755', 'nobody|'],
-  ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
+  ['385903190456', 'nobody|'],
+  ['998958100949', 'nobody|'],
+  ['40790115929', 'nobody|'],
+  ['393201391411', 'nobody|'],
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['393201391411'] 
+global.prems = ['393201391411'] 
+global.reportes_solicitudes = ['393201391411']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ცơɬῳɧąıɬą★'
+global.author = 'UnityComm'
 global.wm = '★ცơɬῳɧąıɬą ★'
 global.vs = '4.0'
 global.igfg = '★ცơɬῳɧąıɬą★'
@@ -50,7 +49,7 @@ global.mysticbot = 'https://github.com/Fabri115/botwhaita'
 global.waitt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waittt = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.waitttt = '*[❗] ⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
-global.nomorown = '393518398856'
+global.nomorown = '393201391411'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––╔'
 global.cmenur = '╝––––––❖'
